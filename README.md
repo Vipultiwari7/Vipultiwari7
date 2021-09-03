@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vipultiwari7
 - 👀 I’m interested in Java,C,DSA,Web development,
-- 🌱 I’m currently learning Data structures and algorithm
+- 🌱 I’m currently working on appdevs
 - 📫 You can reach me https://www.linkedin.com/in/vipul-tiwari-37177718b
 
 <!---
